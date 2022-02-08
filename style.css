@@ -1,0 +1,214 @@
+#section1 {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10%;
+    padding-bottom: 20%;
+}
+
+#section1 h1 {
+    color: black;
+    padding-bottom: 3%;
+    font-size: 4rem;
+    text-shadow: 4px 0 rgb(73, 176, 211);
+}
+
+#section2 h2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+#section1 h3 {
+    font-size: 2rem;
+    padding: 30px;
+}
+
+.head-part {
+    font-size: 1.3rem;
+}
+
+.intro {
+    text-align: center;
+    font-size: 1.1rem;
+    width: 80%;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    margin: 30px;
+    margin-top: 12%;
+    margin-left: 10%;
+    background-color: rgb(73, 176, 211);
+}
+
+#section2 {
+    text-align: center;
+    margin: ;
+    padding-top: 10%;
+}
+
+#section2 p {
+    font-size: 1.5rem;
+    margin-right: 10%;
+    margin-left: 5%;
+    text-align: left;
+}
+
+#section2 img {
+    float: right;
+    width: 55%;
+    padding-left: 3%;
+    margin-right: 1.5%;
+}
+
+#section2 h2 {
+    margin-left: 5%;
+    text-align: left;
+    margin-top: 3%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    font-size: 4rem;
+}
+
+#section3 {
+    color: black;
+    background-color: #fdfafa;
+}
+
+#section3 h3 {
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom: ;
+    font-size: 3.5rem;
+}
+
+#section3 li {
+    line-height: 2;
+}
+
+.content {
+    text-align: center;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 2rem;
+    text-align: left;
+    font-size: 1.6rem;
+    text-decoration: antiquewhite;
+    color: black;
+    text-decoration: none;
+    margin: 10% 5% 10% 5%;
+}
+
+#section3 ul {}
+
+#section4 {
+    text-align: center;
+}
+
+.heading2 {
+    padding-bottom: 5%;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.paddinglike {
+    margin: 0 10% 0 8%;
+    line-height: 2;
+    font-size: 1.5rem;
+    margin-bottom: 5%;
+}
+
+#section5 {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 25%;
+    margin-right: 15%;
+}
+
+video {}
+
+.flashcards {
+    padding-top: 5%;
+    line height: 2;
+    font-size: 1.3rem;
+}
+
+.flash-highlight {
+    background-color: rgb(73, 176, 211);
+    padding: 2px;
+}
+
+#section5 h2 {
+    font-size: 3rem;
+    padding-bottom: 4%;
+}
+
+#section6 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+    line-height: 2;
+    padding-bottom: 4%;
+    background-color: #fdfafa;
+}
+
+#section6 p {
+    font-size: 1.2rem;
+}
+
+#section6 h3 {
+    padding-bottom: 3%;
+    padding-top: 4%;
+    font-weight: 700;
+}
+
+#pricing-section {
+    background-color: rgb(73, 176, 211);
+    text-align: center;
+}
+
+#pricing-section h1 {
+    font-size: 3.7rem;
+    font-weight: 900;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+#pricing-section h4 {
+    font-weight: 700;
+    padding-bottom: 3%;
+}
+
+.pricing-highlight {
+    background-color: black;
+    color: rgb(73, 176, 211);
+    padding: 2px;
+}
+
+#pricing-section button {
+    margin: 4%;
+    width: 20%;
+    padding: 1%;
+    background-color: lightpink;
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+#footer {
+    text-align: center;
+    padding: 3%;
+}
+
+#footer i {
+    padding: 2% 1%;
+}
+
+footer a {
+    text-decoration: none;
+    float: right;
+    color: black;
+    padding: 1%;
+    padding-bottom: 4%;
+}
